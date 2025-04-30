@@ -33,4 +33,4 @@ The Superstore Sales Dashboard helps answer key business questions like:
 4. Refresh the data and interact with the dashboard!
 
 # Screenshots
-[Dashboard image](https://github.com/user-attachments/assets/226af87c-4084-419d-9c95-b62c3ababa69)
+![Dashboard image](https://github.com/user-attachments/assets/226af87c-4084-419d-9c95-b62c3ababa69)
